@@ -339,6 +339,10 @@ h1, h2, h3, h4, h5, h6, figure {
   vertical-align: middle;
 }
 
+.skill-icon {
+  size: 72vw;
+}
+
 .gradient-text {
   background: -webkit-linear-gradient(top right, #52D681, #1FDEDB);
   background: -webkit-gradient(linear, right top, left bottom, from(#52D681), to(#1FDEDB));
